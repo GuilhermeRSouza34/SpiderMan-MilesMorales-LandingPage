@@ -6,8 +6,6 @@
 <div align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-autor">Autor</a>
 </div>
 
 <br>
@@ -122,14 +120,3 @@ http://127.0.0.1:5500/index.html
 <br>
 <br>
 
-## 🤝 Agradecimentos
-
-<p align="center">
-    <img alt="Nasser Yousef Ali" title="Nasser Yousef Ali" 
-    src=".github/nasser-yousef-ali.jpeg" />
-</p>
-<br>
-
-Projeto desenvolvido durante a [FrontWeek 1.0](https://www.frontpush.com.br/).
-
-Agradecimento ao [Násser Yousef Ali](https://www.nyousefali.com.br/) por compartilhar conteúdo relevante e com qualidade de ensino.
