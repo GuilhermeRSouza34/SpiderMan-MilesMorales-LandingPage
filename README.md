@@ -120,29 +120,6 @@ http://127.0.0.1:5500/index.html
 ```
 
 <br>
-
-## 🚩 Tenho Dúvidas... O que fazer?
-
-Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/spider-man-miles-morales)**. Assim que possível, responderei todas as dúvidas!
-
-<br>
-
-## 💡 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
-<br>
-
-## 🎆 Autor
-
-Feito com ♥ by
-
-<div align='center'>
-
-[<img src="https://avatars.githubusercontent.com/u/40473246?v=4" width=115><br><sub>Wanderson A. Timóteo</sub>](https://www.wandersontimoteo.ga/)
-
-</div>
-
 <br>
 
 ## 🤝 Agradecimentos
